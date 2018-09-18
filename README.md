@@ -1,8 +1,5 @@
 # wfp_assignment
 
-firebase_App
+Built with Flutter
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+https://user-images.githubusercontent.com/1956712/45661298-8f682d80-bb05-11e8-9b69-ece8c19fbf5f.gif
