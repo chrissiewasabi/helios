@@ -1,4 +1,3 @@
-# wfp_assignment
 
 Built with Flutter
 
